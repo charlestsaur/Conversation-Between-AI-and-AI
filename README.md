@@ -4,7 +4,7 @@
 
 > 注意：也可使用 llama.cpp 本地推理的模型进行互相对话，脚本为 `llamacpp_chat.py`
 
-整个小项目中除 `llamacpp_chat.py` 外（包括说明文档 `CODE_EXPLANATION.md`）均由 Gemini 生成，我本人只做了微小的修改。
+整个小项目中除 `llamacpp_chat.py` 外的所有代码和说明文档 `CODE_EXPLANATION.md`均由 Gemini 生成，我本人只做了微小的修改。
 
 `llamacpp_chat.py` 为 GPT 基于 Gemini 编写的 `gemini_chat.py` 改写的脚本。
 
